@@ -1,0 +1,156 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {611, 504}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{282, 19}, {120, 47}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "answer1_label",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "996FD5AB-61F7-4EAB-8285-7E9C70796482",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{282, 112}, {120, 53}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "answer2_label",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "1F593C9F-4646-4AA2-8119-18C35902C518",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{282, 213}, {120, 52}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "answer3_label",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "D05F3B8A-35B6-4B5D-BA90-78DC2F048D97",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{282, 298}, {120, 47}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "answer4_label",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "BF167984-482A-4566-A402-ECC9A50F0703",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{27, 19}, {108, 47}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "equation1_touch_up_inside",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "5+2^3",
+          "class" : "Button",
+          "uuid" : "1B3B322D-96FD-4003-BEF9-53B4EF177C2E",
+          "font_size" : 15,
+          "name" : "equation1_button"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{27, 120}, {108, 45}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "equation2_touch_up_inside",
+          "frame" : "{{266, 236}, {80, 32}}",
+          "title" : "4\/2+5",
+          "uuid" : "47A57E77-619F-4445-94BA-D27403FC6071",
+          "class" : "Button",
+          "name" : "answer2_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{32, 213}, {103, 50}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "equation3_touch_up_inside",
+          "frame" : "{{266, 236}, {80, 32}}",
+          "title" : "3+4*2",
+          "uuid" : "251F476A-5C07-435F-9CDA-AADDB6A8A92C",
+          "class" : "Button",
+          "name" : "answer3_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{27, 298}, {108, 47}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "equation4_touch_up_inside",
+          "frame" : "{{266, 236}, {80, 32}}",
+          "title" : "7-3+2",
+          "uuid" : "4854E5B7-3B94-4D62-A77D-53DFAEBB2765",
+          "class" : "Button",
+          "name" : "answer4_button",
+          "font_size" : 15
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {331, 315}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{127, 106}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "answer_touch_up_inside",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "Answer",
+          "uuid" : "3769F597-AD6D-4CBD-99F5-D5DB33E028A1",
+          "class" : "Button",
+          "name" : "answer_button_label",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{98, 146}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "C1E64A25-BED7-4798-8473-BD4D818C28A3",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "area_answer_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{77, 186}, {201, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "140E1B68-9277-465E-9A4F-1DFE65701ABD",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "perimeter_answer_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{15, 6}, {310, 87}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "49D5F353-27B0-4085-861E-AD5F1D624C7E",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "What is the area andpermeter of a rectangle with length 5 cm and width 3 cm?",
+          "name" : "question_label",
+          "font_size" : 18
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
